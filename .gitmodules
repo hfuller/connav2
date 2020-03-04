@@ -4,3 +4,6 @@
 [submodule "M5StickC-uPy"]
 	path = M5StickC-uPy
 	url = https://github.com/karfas/M5StickC-uPy
+[submodule "MicroPython"]
+	path = MicroPython
+	url = https://github.com/GuyCarver/MicroPython
