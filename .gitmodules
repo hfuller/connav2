@@ -1,0 +1,6 @@
+[submodule "MicroPython-ST7735"]
+	path = MicroPython-ST7735
+	url = https://github.com/boochow/MicroPython-ST7735
+[submodule "M5StickC-uPy"]
+	path = M5StickC-uPy
+	url = https://github.com/karfas/M5StickC-uPy
